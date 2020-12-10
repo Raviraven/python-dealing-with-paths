@@ -2,4 +2,11 @@
 Project created for learning how to deal with file paths between different operating systems.
 
 ## How to use? 
-Download and install python 3 (at least 3), download main.py, change paths to your file and run script. 😉
+1. Make sure you have python installed (at least python3)
+2. Download repository
+3. Change paths in main.py script
+4. Run script using terminal
+```terminal
+python main.py
+```
+5. That's that simple 😀
